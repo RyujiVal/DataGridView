@@ -1,0 +1,6 @@
+C:\Users\wavyo\Downloads\datagridview-metroframework-master (1)\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.csproj.AssemblyReference.cache
+C:\Users\wavyo\Downloads\datagridview-metroframework-master (1)\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.Class.MetroGrid.resources
+C:\Users\wavyo\Downloads\datagridview-metroframework-master (1)\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.Main.resources
+C:\Users\wavyo\Downloads\datagridview-metroframework-master (1)\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.Properties.Resources.resources
+C:\Users\wavyo\Downloads\datagridview-metroframework-master (1)\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.csproj.GenerateResource.cache
+C:\Users\wavyo\Downloads\datagridview-metroframework-master (1)\datagridview-metroframework-master\DataGridMetro\obj\Debug\DataGridMetro.exe.licenses
